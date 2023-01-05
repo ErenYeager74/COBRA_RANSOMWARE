@@ -1,7 +1,7 @@
 # COBRA RANSOMWARE
 
-![Project Image](![Cobra Ransomware](https://user-images.githubusercontent.com/80775518/210773793-b37ae91a-53b9-4d57-bc17-8f22c3ec0ef5.png)
-)
+![Cobra Ransomware](https://user-images.githubusercontent.com/80775518/210774086-872acc4d-e169-4176-a254-0a657a7a0b36.png)
+
 
 > This a Final year Project proposed by Khaled Hussein Mostafa
 
